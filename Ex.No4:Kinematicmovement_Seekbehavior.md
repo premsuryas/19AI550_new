@@ -54,12 +54,11 @@ public class Script : MonoBehaviour
 ### Output:
 
 
+![3](https://github.com/user-attachments/assets/0fdd759e-c887-408e-8890-9c6a0428b09d)
 
 
 
-
-
-
+![31](https://github.com/user-attachments/assets/80726927-8f6e-476c-b26f-16405a16a465)
 
 ### Result:
 Thus the simple seek behavior was implemented successfully.
