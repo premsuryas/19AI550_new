@@ -1,6 +1,6 @@
 # Ex.No: 10 Implementation of 2D/3D game 
-## NAME : ARUN KUMAR B
-## REGISTER NUMBER : 212223230021
+## NAME : s.prem kumar
+## REGISTER NUMBER : 212223240125
 
 ## AIM:
 To develop a 2D game using C# program in unity .
